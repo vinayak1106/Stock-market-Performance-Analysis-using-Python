@@ -49,6 +49,9 @@ Plotting options: Customize plot labels, colors, and styles to suit your prefere
 
 ## Results
 The analysis results, including the generated plots and charts, will be displayed in the terminal or command prompt when you run the script. You can also save the plots as image files or export the analysis data to a CSV file by uncommenting the respective lines in the code.
+![image](https://github.com/vinayak1106/Stock-market-Performance-Analysis-using-Python/assets/81875658/a0997b1a-cd7d-4118-be83-944590f81512)
+![image](https://github.com/vinayak1106/Stock-market-Performance-Analysis-using-Python/assets/81875658/3a07048c-a0c9-4307-adfe-ad0210ddff9f)
+
 
 ## Contributing
 Contributions to this project are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
